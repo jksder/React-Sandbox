@@ -1,0 +1,3 @@
+[submodule "react-youtube"]
+	path = react-youtube
+	url = https://github.com/jksder/react-youtube.git
