@@ -1,3 +1,6 @@
 [submodule "react-youtube"]
 	path = react-youtube
 	url = https://github.com/jksder/react-youtube.git
+[submodule "native-demo"]
+	path = native-demo
+	url = https://github.com/jksder/native-demo.git
