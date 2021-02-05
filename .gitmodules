@@ -4,3 +4,6 @@
 [submodule "native-demo"]
 	path = native-demo
 	url = https://github.com/jksder/native-demo.git
+[submodule "songs-redux"]
+	path = songs-redux
+	url = https://github.com/jksder/songs-redux.git
